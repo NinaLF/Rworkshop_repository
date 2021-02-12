@@ -2,5 +2,5 @@
 Trying out Git 
 
 ## This file is a markdwon file
-### so headlines, lists etc. work 
+1) ### so headlines, lists etc. work 
 
