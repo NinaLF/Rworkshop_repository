@@ -11,3 +11,5 @@ changing something in R studio now
 wenns nicht klappt username in terminal eingeben:
 git config --global user.email "xxx"
 git config --global user.name "mail"
+
+### it seems to be working
