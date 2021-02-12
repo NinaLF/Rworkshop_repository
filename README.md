@@ -6,3 +6,8 @@ Trying out Git
 
 changing something in R studio now
 
+???
+ 
+wenns nicht klappt username in terminal eingeben:
+git config --global user.email "nina.frings@stud.unibas.ch"
+git config --global user.name "NinaLF"
